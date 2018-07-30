@@ -11,13 +11,14 @@ rows = [ (1, "First" ), (2, "Second" ),
          (7, "Seventh" ) ]
 
 cur.executemany("insert into mytab(id, data) values (:1, :2)", rows, batcherrors = True)
-'''
-for error in cur.getbatcherromytabrs():
+
+
+for error in cur.getbatcherrors():
     print("Error", error.message.rstrip(), "at row offset", error.offset)
+
 cur.execute("commit")
 # Now query the results back
-'''
-
+con.close()
 
 '''
 cur2 = con.cursor()
