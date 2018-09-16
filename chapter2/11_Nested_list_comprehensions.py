@@ -15,15 +15,16 @@ transposed = []
 for i in range(4):
     print("Value of i : ", i)
     transposed_row = []
-    for items in matrix:
-        print("Row : ", items, " index : ", i)
-        transposed_row.append(items[i])
+    for item in matrix:
+        print("Row : ", item, " index : ", i)
+        transposed_row.append(item[i])
         print(transposed_row)
     transposed.append(transposed_row)
+print("Transposed Matrix:")
 print(transposed)
 
 
 
-print("After Transpose of matrix - with list comprehension")
-tranMatix=[[row[i] for row in matrix] for i in range(4)]
-print(tranMatix)
+# print("After Transpose of matrix - with list comprehension")
+# tranMatix=[[item[i] for item in matrix] for i in range(4)]
+# print(tranMatix)
