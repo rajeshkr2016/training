@@ -11,7 +11,8 @@ class Shark:
         print("This is the constructor method.")
 
     def swim(self):
-        print("The shark is swimming.")
+
+        print("The shark is swimming.",a,b)
 
     def be_awesome(self):
         print("The shark is being awesome.")

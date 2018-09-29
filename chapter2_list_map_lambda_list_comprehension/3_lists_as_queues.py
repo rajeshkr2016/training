@@ -5,14 +5,27 @@ While appends and pops from the end of list are fast, doing inserts or pops from
 (because all of the other elements have to be shifted by one).
 '''
 
+import os
 from collections import deque
+
 
 queue = deque(["Eric", "John", "Michael"])
 queue.append("Terry")           # Terry arrives
 queue.append("Graham")          # Graham arrives
 
 queue.popleft()                 # The first to arrive now leaves
-print(queue)
+#print(queue)
 
 queue.popleft()
-print(queue)
+#print(queue)
+
+
+
+import sys
+
+
+
+print (type(sys.path))
+
+for path in sys.path:
+    print(path)

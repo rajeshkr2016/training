@@ -6,6 +6,12 @@ when you have commonly named methods across classes or subclasses.
 This allows functions to use objects of any of these polymorphic classes
 without needing to be aware of distinctions across the classes.
 '''
+
+'''
+DB connections - multiple connections and need to retrieve data from different classes using db connections
+
+
+'''
 class Bear(object):
     def sound(self):
         print("Groarrr")
