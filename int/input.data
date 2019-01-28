@@ -1,0 +1,4 @@
+idx: fname, lname, sex, age, companyId
+1: xyz, abc, M, 31, SFDC-1231
+2: John, Doe, M, 35, SFDC-001
+3: Jane, xyz, F, 28, SFDC-2341
