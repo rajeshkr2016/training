@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0bfe831-a0a6-4979-b146-6f09f8027aea" name="Default Changelist" comment="updating">
-      <change beforePath="$PROJECT_DIR$/learnPython" beforeDir="false" afterPath="$PROJECT_DIR$/learnPython" afterDir="false" />
+    <list default="true" id="d0bfe831-a0a6-4979-b146-6f09f8027aea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/learnPython/Learn_kwargs.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/scripts/aws/getallRegionInstances.py" beforeDir="false" afterPath="$USER_HOME$/scripts/aws/getallRegionInstances.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/learnPython/proj1/ReadEmailToDB.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-6">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -80,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/learnPython/Learn_kwargs.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -419,14 +420,7 @@
       <option name="project" value="LOCAL" />
       <updated>1540875815058</updated>
     </task>
-    <task id="LOCAL-00004" summary="updating">
-      <created>1548656231043</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1548656231043</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -440,20 +434,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4982699" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982699" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" sideWeight="0.5017301" side_tool="true" weight="0.24954791" />
       <window_info id="Favorites" order="2" sideWeight="0.5017301" side_tool="true" weight="0.24954791" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49909583" weight="0.32982457" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8601567" weight="0.3239766" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8601567" visible="true" weight="0.3239766" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988304" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4996986" weight="0.32943925" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32982457" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.329849" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49849308" visible="true" weight="0.39415205" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49849308" weight="0.39415205" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30440024" side_tool="true" weight="0.374269" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.69559973" weight="0.374269" />
       <window_info anchor="bottom" id="Docker" order="12" weight="0.32982457" />
@@ -662,7 +657,7 @@
     <entry file="file://$PROJECT_DIR$/learnPython/proj1/ReadEmailToDB.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -681,7 +676,7 @@
     <entry file="file://$PROJECT_DIR$/learnPython/Learn_kwargs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
