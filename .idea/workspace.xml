@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0bfe831-a0a6-4979-b146-6f09f8027aea" name="Default Changelist" comment="">
+    <list default="true" id="d0bfe831-a0a6-4979-b146-6f09f8027aea" name="Default Changelist" comment="updating">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/int/LyftDriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/LyftDriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/int/PrintHier.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/PrintHier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnPython" beforeDir="false" afterPath="$PROJECT_DIR$/learnPython" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/int/ReaddataSF.py" beforeDir="false" afterPath="$PROJECT_DIR$/int/ReaddataSF.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,16 +11,57 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-739875299">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="data" value="4" />
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="356" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="356" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="training" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/int/Learn_kwargs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/int/input.data">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+            <state relative-caret-position="51">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -30,38 +69,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/int/ReaddataSF.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="85">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
+                <marker date="1548778176101" expanded="true" signature="1802:1804" ph="..." />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/int/Learn_kwargs.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/old/PrintHier.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/int/output.data">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter7_XL Reading_cells_func/6-Write_XL_simple.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter7_XL Reading_cells_func/2-OpeningXL_read_cells_for_loop.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -93,12 +108,12 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/binsearchDict.py" />
         <option value="$PROJECT_DIR$/primeno.py" />
         <option value="$PROJECT_DIR$/runnerup.py" />
         <option value="$PROJECT_DIR$/traininghackerrank.py" />
@@ -148,14 +163,15 @@
         <option value="$PROJECT_DIR$/int/PrintHier.py" />
         <option value="$PROJECT_DIR$/learnPython/LyftDriver.py" />
         <option value="$PROJECT_DIR$/learnPython/Learn_kwargs.py" />
+        <option value="$PROJECT_DIR$/int/input.data" />
         <option value="$PROJECT_DIR$/int/ReaddataSF.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
     <option name="width" value="1680" />
-    <option name="height" value="947" />
+    <option name="height" value="948" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -180,7 +196,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,14 +213,11 @@
               <item name="training" type="462c0819:PsiDirectoryNode" />
               <item name="shell" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonIntro" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,18 +225,133 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/int" />
+      <recent name="$PROJECT_DIR$/learnPython/proj1" />
+      <recent name="$PROJECT_DIR$/shell" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/learnPython/proj1" />
       <recent name="$PROJECT_DIR$/learnPython/chapter6_readfile_configparser" />
       <recent name="$PROJECT_DIR$/learnPython/chapter4" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/old" />
-      <recent name="$PROJECT_DIR$/int" />
-      <recent name="$PROJECT_DIR$/learnPython/proj1" />
-      <recent name="$PROJECT_DIR$/shell" />
-    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/int/ReaddataSF.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/learnPython</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/old/LyftDriver.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/old/PrintHier.py</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/int/LyftDriver.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/int/PrintHier.py</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -314,7 +441,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/LyftDriver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/int/LyftDriver.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,21 +520,7 @@
       <option name="project" value="LOCAL" />
       <updated>1540875815058</updated>
     </task>
-    <task id="LOCAL-00004" summary="updating">
-      <created>1548741387724</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1548741387724</updated>
-    </task>
-    <task id="LOCAL-00005" summary="updating">
-      <created>1548742985106</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1548742985106</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -420,22 +533,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <frame x="-6" y="-6" width="1293" height="733" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982699" visible="true" weight="0.25579977" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4982699" visible="true" weight="0.2837838" />
       <window_info id="Structure" order="1" sideWeight="0.5017301" side_tool="true" weight="0.24954791" />
       <window_info id="Favorites" order="2" sideWeight="0.5017301" side_tool="true" weight="0.24954791" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49909583" weight="0.32982457" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8601567" visible="true" weight="0.3239766" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8601567" visible="true" weight="0.32392028" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988304" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4996986" weight="0.32943925" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32982457" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.329849" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49849308" weight="0.25263157" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49849308" weight="0.39415205" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30440024" side_tool="true" weight="0.374269" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.69559973" weight="0.374269" />
       <window_info anchor="bottom" id="Docker" order="12" weight="0.32982457" />
@@ -457,6 +570,9 @@
       </list>
     </option>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updating more details." />
     <MESSAGE value="updating" />
@@ -472,6 +588,14 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter12_lambda and map/2-map_simple.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter12_lambda and map/1-lambda_simple.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter6_readfile_configparser/2_configParser.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter6_readfile_configparser/1_readFiles.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/21_tuple_loop.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/22_tuple_withlist.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/30-sets_simple.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter3_set_add_pop_intersection_symmetric/1-sets_simple.py" />
     <entry file="file://$PROJECT_DIR$/LinearSearch.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -528,138 +652,53 @@
     <entry file="file://$PROJECT_DIR$/2dArray-HourGlass.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter13_threads_multithreading/1-Simple_Thread.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/20_tuple_simple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-732" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/11_Nested_list_comprehensions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/10_list_comp_if.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/9_if_statement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/8-List_Comprehensions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/3_lists_as_queues.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter4_class_method_inheritance_override_polymorphism/1_userDefinedFunction.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/40-Dictionaries.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/41-Dict_loop.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/51_loopin1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/listqtn-binarysearch.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter8_REST API/1_restapi_ex.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter8_REST API/2_restApiGet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/1_List.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/2_list_as_stack.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/proj1/ReadEmail.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/proj1/ReadEmail1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/proj1/ReadEmailToDB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/proj1/ReadEmilToDB.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/proj1/db_config1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/proj1/db_config.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter13_threads_multithreading/1-Simple_Thread.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/20_tuple_simple.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/11_Nested_list_comprehensions.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/10_list_comp_if.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/9_if_statement.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/8-List_Comprehensions.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/3_lists_as_queues.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter4_class_method_inheritance_override_polymorphism/1_userDefinedFunction.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/40-Dictionaries.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/41-Dict_loop.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/51_loopin1.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/listqtn-binarysearch.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter8_REST API/1_restapi_ex.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter8_REST API/2_restApiGet.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/1_List.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/chapter2_list_map_lambda_list_comprehension/2_list_as_stack.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/proj1/ReadEmail.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/proj1/ReadEmail1.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/proj1/ReadEmailToDB.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/proj1/ReadEmilToDB.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/proj1/db_config1.py" />
+    <entry file="file://$PROJECT_DIR$/learnPython/proj1/db_config.py" />
     <entry file="file://$PROJECT_DIR$/learnPython/Learn_kwargs.py" />
-    <entry file="file://$PROJECT_DIR$/chapter7_XL Reading_cells_func/6-Write_XL_simple.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4_class_method_inheritance_override_polymorphism/5_more_than_one_object.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4_class_method_inheritance_override_polymorphism/6_Inheritance.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4_class_method_inheritance_override_polymorphism/8_polymorphism.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4_class_method_inheritance_override_polymorphism/1_userDefinedFunction.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6_readfile_configparser/1_readFiles.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter7_XL Reading_cells_func/2-OpeningXL_read_cells_for_loop.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/int/input.data">
+    <entry file="file://$PROJECT_DIR$/int/Learn_kwargs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+        <state relative-caret-position="102">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/int/Learn_kwargs.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/PrintHier.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/int/output.data">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/int/input.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/int/ReaddataSF.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
+            <marker date="1548778176101" expanded="true" signature="1802:1804" ph="..." />
           </folding>
         </state>
       </provider>
